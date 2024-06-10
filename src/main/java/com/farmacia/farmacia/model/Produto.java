@@ -1,4 +1,4 @@
-package Model;
+package com.farmacia.farmacia.model;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 
